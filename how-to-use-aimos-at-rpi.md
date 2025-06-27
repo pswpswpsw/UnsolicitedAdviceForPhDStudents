@@ -16,9 +16,9 @@ We will use the supercomputer, called AIMOS, at RPI for most of the big jobs. He
 1. make sure you have an account. if not, ask me. 
 2. make sure you are either using RPI_WPA or VPN so you are connected to the intranet of RPI.
 3. you need to setup DUO at https://secure.cci.rpi.edu/client/login  DUO is just a second security verification.
-4. you will have an account name. For example, **my account name is _AGRMpnsh_**, so what I will do to log in is
+4. you will have an account name ACCOUNTNAME. You need to ask permission from the CCI. So what I will do to log in is
 ```
-ssh AGRMpnsh@blp04.ccni.rpi.edu
+ssh ACCOUNTNAME@blp04.ccni.rpi.edu
 ```
 then it will ask for password. Remember, do not use `-X` here. 
 
@@ -40,7 +40,7 @@ then it will ask for password. Remember, do not use `-X` here.
 **     Use is subject to the terms of the policy for           **
 **     Acceptable Use of CCI Resources.                        **
 **                                                             **
-[AGRMpnsh@blp01 ~]$ 
+[ACCOUNTNAME@blp01 ~]$ 
 
 ```
 
@@ -51,7 +51,7 @@ ssh dcsfen01
 ```
 Now you see
 ```
-[AGRMpnsh@dcsfen01 ~]$ 
+[ACCOUNTNAME@dcsfen01 ~]$ 
 ```
 - Now you are in AIMOS. Specifically, you are now interfacing with the login node of AIMOS, i.e., you are talking with the gatekeeper of AIMOS.  The language you use to talk with him is **Slurm**, it is very simple to use, just remember no more than 4 commands. See [here](https://kb.swarthmore.edu/display/ACADTECH/Slurm+Commands).
 
@@ -84,7 +84,7 @@ A: official answer is here https://docs.cci.rpi.edu/software/Conda/#installing-c
 Follow the instruction and type `conda init`
 Now you have activated conda, you should see
 ``` 
-(base) [AGRMpnsh@dcsfen01 barn]$ 
+(base) [ACCOUNTNAME@dcsfen01 barn]$ 
 ```
 which means you are in the `base` Conda environment. 
 
@@ -102,7 +102,7 @@ The file is right here:
 
 You type `conda activate tf2py37`, you will activate that conda system, which contains the basic packages you need for research. 
 ``` 
-(tf2py37) [AGRMpnsh@dcsfen01 barn]$ 
+(tf2py37) [ACCOUNTNAME@dcsfen01 barn]$ 
 ```
 
 ## How to run a job on supercomputer?
@@ -113,7 +113,7 @@ Here I show you a quick demo of how to submit your first job.
 ### Your first submission for running a Python code on supercomputer
 When you log into aimos, and you have activated your conda environment, **tf2py37**, say you are here
 ``` 
-(tf2py37) [AGRMpnsh@dcsfen01 barn]$ 
+(tf2py37) [ACCOUNTNAME@dcsfen01 barn]$ 
 ```
 
 Now you have a python code, called `test.py`, which contains
@@ -439,7 +439,7 @@ Then use my script, save as `script.sh`
 # Assuming '-g' flag is for GPU selection, it should match array task id for unique GPU per job
 # python train.py -d navier_stokes -g 0 -r $r -t $mlp_type
 
-cd /gpfs/u/home/AGRM/AGRMpnsh/scratch/hpopt-ray
+cd /gpfs/u/home/PROJECTNAME/ACCOUNTNAME/scratch/hpopt-ray
 
 python ray-train.py
 ```
