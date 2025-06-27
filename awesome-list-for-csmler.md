@@ -1,4 +1,4 @@
-# Training courses/summer schools
+# Training Courses/Summer Schools
 - DL4Science Summer school https://dl4sci-school.lbl.gov/home 
   - you can find the slides by clicking the title in the schedule
 - LLM 4 Agent https://twitter.com/dawnsongtweets/status/1832152033887187100
@@ -20,7 +20,7 @@
 - ICERM Brown applied math workshop https://icerm.brown.edu/program
 - Annual Nepal AI School - Program, https://nepalschool.naamii.com.np/program 
 
-# Conference
+# Conferences
 - ICLR
 - NeurIPS
 - ICML
