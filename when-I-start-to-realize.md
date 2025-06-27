@@ -10,7 +10,7 @@ A: Yes, setting "being a distinguished professor" as a goal, even if you change 
 
 ### Q: Is being a professor only about research?
 
-A: Not at all. Only about 20% of a professor's role is academic research; the other 80% is communication. This includes learning quickly, asking good questions, and effectively conveying your ideas to others.
+A: Not at all. Only about 20% of a professor's role is the actual research; the other 80% is communication. This includes learning quickly, asking good questions, and effectively conveying your ideas to others.
 
 ### Q: How do the skills gained from aiming to be a professor apply to an industry career?
 A: The skills you develop, such as communication, project management, and critical thinking, are amplified and highly valuable in an industry setting.
@@ -18,9 +18,6 @@ A: The skills you develop, such as communication, project management, and critic
 # Hard Work & Opportunity
 ### Q: What should be the focus of hard work for a student?
 A: Hard work isn't about becoming the "next big name." It's about making something happen and focusing on tangible results.
-
-### Q: How should I approach research topics if I'm not finding new opportunities?
-A: Instead of pursuing over-exploited topics or trying to replicate others' success, ask yourself: "What resources do I need to get things done?" (e.g., time, money, specific tools, other research).
 
 # Advisor Relationships
 ### Q: How can I make meetings with my advisor efficient?
@@ -44,7 +41,7 @@ A: Expect to receive the biggest criticism from reviewers. This criticism isn't 
 
 # Perspective on Research & Famous People
 ### Q: Should I follow the research directions proposed by famous people?
-A: Not necessarily. Famous people often become well-known by finding reasons for many people to get funded, not always by identifying the true bottlenecks. Instead, ask yourself: "What questions really matter? What stops our community from developing?"
+A: Not necessarily. Famous people often become well-known by finding reasons for many people to get funded, not always the first to identify the  bottlenecks. Instead, ask yourself: "What questions really matter? What stops our community from developing further? How would our research finally hit GDP growth?"
 
 ### Q: What's the best way to present my research findings?
 A: The best way to present is through contrast. Show "before and after" scenarios and provide clear metrics that quantify the improvement your work offers.
@@ -54,10 +51,10 @@ A: The best way to present is through contrast. Show "before and after" scenario
 A: Advisor criticism is never personal. It simply means they need something you haven't provided or that your work needs refinement. It's not a judgment of your ability.
 
 ### Q: What is the main purpose of graduate school?
-A: Graduate school is less about teaching and more about selection. You are expected to take the initiative, read widely, propose your own ideas, and make your advisor successful through your contributions.
+A: Graduate school is more or less just an opportunity for you to think for a few years on solving an important problem. You are expected to take the initiative, read widely, propose your own ideas.
 
 ### Q: Why is continuous reading important for a student?
 A: Reading 1-2 papers daily (to grasp ideas and conclusions) will quickly reveal that new information becomes rarer, making it easy to catch up with and understand your field. It serves as your intellectual protection.
 
 ### Q: Does working on a "hot topic" guarantee importance?
-A: Not necessarily. If you follow hot topics proposed by famous people, your work might only reinforce theirs. True impact comes from identifying your unique angle and addressing real community bottlenecks. While students often start by following, the goal is to gradually find your own unique contributions that stand out.
+A: Not necessarily. True impact comes from identifying your unique angle and addressing real community bottlenecks. While students often start by following, the goal is to gradually find your own unique contributions that stand out.
