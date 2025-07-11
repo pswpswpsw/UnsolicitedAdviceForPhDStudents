@@ -1,9 +1,6 @@
 # Preface
 We might need to run the jobs and want to have access to the workstation sometimes. In this post, I will guide you step by step on how to set things up.
 
-However, I strongly encourage you to work in the lab instead of at home. I will come to the office and check constantly. Trust me, you will find the difference. But, I am not asking you to stay in the lab for more than 10 hours a day! You should leave the lab after 8 PM and enjoy your own personal life outside research! Everyday you should have 8 hours working in the lab, and come early in the morning, it will help your body too!
-
-
 # VPN
 First, make sure you have connected to RPI inner network using VPN. Check out this at [here](https://itssc.rpi.edu/hc/en-us/articles/360008783172-VPN-Installation-and-Connection) if you don't know what to do.
 
