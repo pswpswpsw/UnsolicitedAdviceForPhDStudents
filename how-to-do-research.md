@@ -3,10 +3,23 @@ _I am happy that you finally come to this page._
 If I may only say one sentence about doing research, it is
 > **Research is about standing on the shoulders of giants and then searching for something better.** 
 
+## My standard for papers
+
+1. Your paper should clearly state the hypothesis to test. 
+2. Your paper should provides a completely reproducible description of the numerical experiments, which either support or falsify your hypothesis. 
+3. The hypothesis must be novel, which include new methods or new applications of methods.
+4. You are able to tell the limit of your work, and provide evidence to show that under the assumptions of your work, the results should be expected as it is, and the limit and advantages you mentioned in the work must exist as you said.
+5. You should be able to explain about your choice of ``hyperparameters'' in your work. Why this has to be the one you choose, or if not, why the choice won't matter.
+6. Your paper should include every other single journal paper that is very related to your work. 
+7. Your contribution = the paper minus the existing literature. You must be able to tell your contribution.
+
+
 ## Standing on the shoulders: Literature Review
 The first and foremost thing to do is a literature review. It may sound like a daunting task because, you might think
 - OMG. Am I going to DO all the works that previous people have done? Then do my own thing?
 - OMG. So many papers, where to start? Where to look for? It seems to be an endless list!
+
+The biggest difference between a super undergraduate student and a graduate student, is that the latter can get key knowledge from random, unordered world of information, and form an opinion of himself/herself --- the ability of critical thinking. This is much more beyond the ability of understanding, as a super UG.
 
 ### How to climb to the giant's shoulder?
 - I will start by sending you at most 3 papers that I think are the best intro-level papers. You need to read them carefully (see #6 ).
